@@ -1,0 +1,39 @@
+
+/* ESTO ES UN COMENTARIO EN CSS */
+
+
+/* DEFINIMOS LOS ESTILOS CSS */
+body{
+
+    background-color: black;
+    color: white;
+
+}
+
+/* Estilos para los links */
+
+a{
+    color:hotpink;
+
+}
+/* El siguiente codigo cuando pasas el cursor por encima de un link se cambia a azul el color */
+
+a:hover{
+
+    color:blue;
+
+}
+
+/* clase para centrar textos */
+.texto-centrado{
+
+    text-align: center;
+
+}
+
+/* clase para hacer mas grande un titulo*/
+.titulo{
+
+    font-size: 400%;
+
+}
